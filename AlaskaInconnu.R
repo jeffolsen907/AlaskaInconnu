@@ -16,6 +16,7 @@ library(hierfstat)
 #library(PopGenKit) #PopGenKit has not been updated for R
 library(poppr)
 library(RColorBrewer)
+library(readr)
 library(reshape2)
 library(tidyverse)
 library(viridis)
